@@ -1,6 +1,6 @@
+[![MasterHead](https://i.imghippo.com/files/Iapt61726407632.png)]
 <h1 align="center">Hi 👋, I'm Roudra Mondal</h1>
 <h3 align="center">I have acquired proficiency in the languages of C, C++, and Java. I am currently engaged in troubleshooting the LeetCode. Likewise, I am always looking forward to participating in programming contests and learning new things.</h3>
-[![MasterHead](https://i.imghippo.com/files/Iapt61726407632.png)]
 <img align="right" alt="Coding" width= "400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roudramondal&label=Profile%20views&color=0e75b6&style=flat" alt="roudramondal" /> </p>
