@@ -8,15 +8,11 @@
 - 🌱 Currently learning **web development**  
 - 🤝 Looking to collaborate on **open-source projects**  
 
----
-
 ## **💡 Skills**
 ### **Languages & Technologies**
 - 🖥️ **Programming:** C, C++, Java  
 - 🌐 **Web Development:** HTML, CSS  
 - 🎯 **Competitive Programming:** Data Structures & Algorithms (DSA)  
-
----
 
 ## **📊 GitHub Stats**
 <div align="left">
@@ -27,12 +23,8 @@
 
 </div>
 
----
-
 ## **🏆 GitHub Achievements**
-[![trophy](https://github-profile-trophy.vercel.app/?username=RoudraMondal&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=RoudraMondal&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## **🌐 Competitive Programming Profiles**
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Roudra1/)  
@@ -40,8 +32,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/roudra55)  
 [![AtCoder](https://img.shields.io/badge/AtCoder-0097E6?style=for-the-badge&logo=atcoder)](https://www.codechef.com/users/roudra55)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/RoudraMondal)  
-
----
 
 ## **📱 Social Media**  
 <div align="left">
@@ -52,7 +42,4 @@
 
 </div>
 
----
-
 "Success is the sum of small efforts, repeated day in and day out. Keep coding, keep learning, and the results will follow!" 🌟🚀  
-
